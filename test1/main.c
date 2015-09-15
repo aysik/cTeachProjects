@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-    printf("Привет, Айсылу!\n");
+    printf("РџСЂРёРІРµС‚, РђР№СЃС‹Р»Сѓ!\n");
+    printf("Hello World!\n");
     return 0;
 }
